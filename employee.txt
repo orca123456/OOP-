@@ -1,0 +1,3 @@
+ID: 1 | Name: DANISH | Age: 40 | Employee Type: FullTime | Daily Rate: 500.0 | Position: MANAGER
+ID: 2 | Name: KIERt | Age: 34 | Employee Type: PartTime | Hourly Rate: 50.0
+ID: 3 | Name: DAsss | Age: 34 | Employee Type: Contract | Monthly Rate: 30000.0 | Agency Name: marine

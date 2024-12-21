@@ -1,0 +1,14 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Date and Time: 2024-12-21 14:10:27
+Payroll Date: December 30, 2024
+Employee ID: 3
+Name: DAsss
+Days Absent: 10
+Gross Pay: 20000.00
+Deductions:
+  SSS: 2200.00
+  Pag-IBIG: 100.00
+  PhilHealth: 700.00
+Total Deductions: 3000.00
+Net Pay: 17000.00
+
